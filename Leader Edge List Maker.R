@@ -1,5 +1,3 @@
-setwd("E:\\Documents\\School\\PHD\\GAShip\\Network Analysis Evan Playground")
-
 library(tidyverse)
 library(stringr)
 library(stringdist)
